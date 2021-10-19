@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db07302a52ae0d84f8f0c1bf5a629241, type: 3}
+  m_Name: Hoonie
+  m_EditorClassIdentifier: 
+  displayPath: My Presets/New Preset
+  isRelative: 0
+  phonemeShapes:
+  - phonemeName: AI
+    phoneme: 0
+    blendables:
+    - blendableNumber: 0
+      blendableName: A (0)
+      weight: 89.8
+    bones: []
+  - phonemeName: E
+    phoneme: 0
+    blendables:
+    - blendableNumber: 3
+      blendableName: E (3)
+      weight: 70.6
+    bones: []
+  - phonemeName: U
+    phoneme: 0
+    blendables:
+    - blendableNumber: 2
+      blendableName: U (2)
+      weight: 92.5
+    bones: []
+  - phonemeName: O
+    phoneme: 0
+    blendables:
+    - blendableNumber: 4
+      blendableName: O (4)
+      weight: 93.9
+    bones: []
+  - phonemeName: CDGKNRSThYZ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 1
+      blendableName: I (1)
+      weight: 79
+    bones: []
+  - phonemeName: FV
+    phoneme: 0
+    blendables:
+    - blendableNumber: 1
+      blendableName: I (1)
+      weight: 54.2
+    - blendableNumber: 35
+      blendableName: mouthShrugUpper (35)
+      weight: 33.6
+    bones: []
+  - phonemeName: L
+    phoneme: 0
+    blendables:
+    - blendableNumber: 0
+      blendableName: A (0)
+      weight: 47.7
+    - blendableNumber: 1
+      blendableName: I (1)
+      weight: 28
+    bones: []
+  - phonemeName: MBP
+    phoneme: 0
+    blendables:
+    - blendableNumber: 32
+      blendableName: mouthSmile_L (32)
+      weight: 34.6
+    bones: []
+  - phonemeName: WQ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 4
+      blendableName: O (4)
+      weight: 58.4
+    - blendableNumber: 35
+      blendableName: mouthShrugUpper (35)
+      weight: 36
+    bones: []
+  - phonemeName: Rest
+    phoneme: 0
+    blendables: []
+    bones: []
+  emotionShapes:
+  - emotion: Happy
+    blendables:
+    - blendableNumber: 6
+      blendableName: JOY (6)
+      weight: 78
+    - blendableNumber: 9
+      blendableName: FUN (9)
+      weight: 32.2
+    bones: []
+  - emotion: Serious
+    blendables:
+    - blendableNumber: 8
+      blendableName: SORROW (8)
+      weight: 82.7
+    - blendableNumber: 7
+      blendableName: ANGRY (7)
+      weight: 58.9
+    - blendableNumber: 13
+      blendableName: browOuterUp_R (13)
+      weight: 71
+    bones: []
+  - emotion: Eyebrows Up
+    blendables:
+    - blendableNumber: 12
+      blendableName: browInnerUp (12)
+      weight: 33.1
+    - blendableNumber: 19
+      blendableName: eyeLookUp_L (19)
+      weight: 100
+    - blendableNumber: 25
+      blendableName: eyeLookUp_R (25)
+      weight: 100
+    bones: []
+  - emotion: Sad
+    blendables:
+    - blendableNumber: 12
+      blendableName: browInnerUp (12)
+      weight: 80.8
+    - blendableNumber: 40
+      blendableName: F8 (40)
+      weight: 100
+    - blendableNumber: 4
+      blendableName: O (4)
+      weight: 73.8
+    - blendableNumber: 1
+      blendableName: I (1)
+      weight: 49.5
+    bones: []

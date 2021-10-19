@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.looxidlin.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\411xrlab\\Desktop\\looxind and eyev10080857\\looxind and eyev1022\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "looxind and eye [Testing]"
+        }
+      }
+    }
+  ]
+}
